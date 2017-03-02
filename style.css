@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  
+
+}
+h1{
+  color: coral;
+  text-align: center;
+  border-bottom-style: dashed;
+  border-color: coral;
+  font-size:40px
+
+}
+p{
+  font-size: large;
+  color: coral;
+  font-style: italic;
+  font-weight: 500;
+}
